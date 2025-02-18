@@ -1,3 +1,12 @@
-*, html {
-  
+*, html, body {
+    font-family: sans-serif;
+    margin: 5px;
+    padding: 5px
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+nav {
+    padding: 20px;
+    border-radius: 5px;
 }
